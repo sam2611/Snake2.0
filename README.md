@@ -1,2 +1,2 @@
 # Snake2.0
-<img src="https://github.com/sam2611/Snake2.0/blob/main/Screenshot%202022-12-19%20195324.png" width=100 height=100>
+<img src="https://drive.google.com/file/d/1hsv51QA6gYIknlaNi7vUMixqWjtEwBbC/view?usp=share_link" width=100 height=100>
